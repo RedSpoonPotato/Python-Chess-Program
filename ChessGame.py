@@ -1,5 +1,4 @@
 from functools import partial
-from select import select
 from Board import *
 import tkinter as tk
 
