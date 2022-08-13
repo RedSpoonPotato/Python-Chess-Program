@@ -1,6 +1,5 @@
 from functools import partial
 from select import select
-from shutil import move
 from Board import *
 import tkinter as tk
 
